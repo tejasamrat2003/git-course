@@ -1,1 +1,3 @@
 HEllo world!!!
+take inout from the user 
+add the values
